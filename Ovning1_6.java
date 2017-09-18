@@ -1,8 +1,8 @@
 import javax.swing.*;
 /*
- Vad?
- Vem?
- När?
+ Program som skriver namn och nummer i dialogrutor
+ Alexander Blom
+ 2017/09/18
 */
 
 public class Ovning1_6 {
